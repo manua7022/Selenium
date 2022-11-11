@@ -4,7 +4,7 @@ public class Sample {
 
 	public static void main(String[] args) 
 	{
-		String s="bubloo";
+		String s="bublii";
 		{
 			System.out.println(s);
 		}
